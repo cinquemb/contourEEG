@@ -6,4 +6,4 @@
 
 - Uses ECMWF's Magics, eigen, opencv, and imagemagick
 :
-![Example](https://github.com/cinquemb/contourEEG/master/test_eeg_data_skip_count_100_0_90.28.png)
+![Example](https://github.com/cinquemb/contourEEG/blob/master/test_eeg_data_skip_count_100_0_90.28.png)
