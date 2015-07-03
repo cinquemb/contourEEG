@@ -6,4 +6,5 @@
 
 - Uses ECMWF's Magics, eigen, opencv, and imagemagick
 
-- see test_eeg_data_skip_count_100_0_90.28.svg for an example
+- example:
+![alt tag](https://raw.github.com/cinquemb/contourEEG/master/test_eeg_data_skip_count_100_0_90.28.svg)
