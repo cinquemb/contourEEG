@@ -6,5 +6,5 @@
 
 - Uses ECMWF's Magics, eigen, opencv, and imagemagick
 
-- Example sample taken at 1/2048 of a second:
+- Example sample taken at 1/2048 of a second with 128 lead array:
 ![Example](https://github.com/cinquemb/contourEEG/blob/master/test_eeg_data_skip_count_100_0_90.28.png)
